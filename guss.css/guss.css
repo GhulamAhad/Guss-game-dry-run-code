@@ -1,0 +1,76 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: black;
+}
+/* .header_contaner{
+   
+} */
+.heading_Guss{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 40px;
+    padding: 10px 0;
+}
+.but{
+    font-size: 25px;
+    width: 100px;
+    height: 50px;
+    font-weight:bolder ;    
+}
+.Between{
+    color: white;
+    font-size: 20px;
+}
+.butween_again{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+}
+.show_number{
+display: flex;
+justify-content: center;
+padding: 30px 10px;
+}
+.show{
+    align-content: center;
+    text-align: center;
+    background-color: white;
+    width: 100px;
+    height: 80px;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.get_cheak_scoure_countner{
+  display: flex;
+  padding: 30px 20px;
+  justify-content: space-around;  
+}
+.input_button_contaner{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.inputv{
+    height: 70px;
+    width: 100px;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+.cheakb{
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.moves_and_scoure{
+    color: white;
+    font-size: 20px;
+}
+.moves_and_scoure h3{
+    padding: 15px 0px;
+}
